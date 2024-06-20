@@ -1,0 +1,114 @@
+﻿<Window x:Class="xaml_lab_8_t2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextEditor" Height="600" Width="800">
+    <Canvas Name="MainCanvas">
+        <Button Content="Копировать" Canvas.Left="50" Canvas.Top="50" Width="100" Command="ApplicationCommands.Copy"/>
+        <Button Content="Вырезать" Canvas.Left="160" Canvas.Top="50" Width="100" Command="ApplicationCommands.Cut"/>
+        <Button Content="Вставить" Canvas.Left="270" Canvas.Top="50" Width="100" Command="ApplicationCommands.Paste"/>
+        <TextBox Name="TextBox1" Width="200" Height="100" Canvas.Left="50" Canvas.Top="400">
+            <TextBox.Triggers>
+                <EventTrigger RoutedEvent="GotFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="300" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="200" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="LostFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="50" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="400" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBox.Triggers>
+        </TextBox>
+
+        <TextBox Name="TextBox2" Width="200" Height="100" Canvas.Left="300" Canvas.Top="450">
+            <TextBox.Triggers>
+                <EventTrigger RoutedEvent="GotFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="300" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="200" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="LostFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="300" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="450" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBox.Triggers>
+        </TextBox>
+
+        <TextBox Name="TextBox3" Width="200" Height="100" Canvas.Left="550" Canvas.Top="400">
+            <TextBox.Triggers>
+                <EventTrigger RoutedEvent="GotFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="300" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="200" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="LostFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="550" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="400" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBox.Triggers>
+        </TextBox>
+
+        <TextBox Name="TextBox4" Width="200" Height="100" Canvas.Left="150" Canvas.Top="450">
+            <TextBox.Triggers>
+                <EventTrigger RoutedEvent="GotFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="300" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="200" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="LostFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="150" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="450" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBox.Triggers>
+        </TextBox>
+
+        <TextBox Name="TextBox5" Width="200" Height="100" Canvas.Left="450" Canvas.Top="450">
+            <TextBox.Triggers>
+                <EventTrigger RoutedEvent="GotFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="300" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="200" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="LostFocus">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" To="450" Duration="0:0:0.5" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Canvas.Top)" To="450" Duration="0:0:0.5" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBox.Triggers>
+        </TextBox>
+    </Canvas>
+</Window>
