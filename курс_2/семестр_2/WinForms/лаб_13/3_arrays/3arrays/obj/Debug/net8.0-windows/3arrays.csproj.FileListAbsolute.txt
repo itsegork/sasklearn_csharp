@@ -1,0 +1,17 @@
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\bin\Debug\net8.0-windows\3arrays.exe
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\bin\Debug\net8.0-windows\3arrays.deps.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\bin\Debug\net8.0-windows\3arrays.runtimeconfig.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\bin\Debug\net8.0-windows\3arrays.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\bin\Debug\net8.0-windows\3arrays.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\_3arrays.Form1.resources
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.csproj.GenerateResource.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.AssemblyInfoInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.AssemblyInfo.cs
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.csproj.CoreCompileInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.sourcelink.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\refint\3arrays.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\3arrays.genruntimeconfig.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\3arrays\3arrays\obj\Debug\net8.0-windows\ref\3arrays.dll

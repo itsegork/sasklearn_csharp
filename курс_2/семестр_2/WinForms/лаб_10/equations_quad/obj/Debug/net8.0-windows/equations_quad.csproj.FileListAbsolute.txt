@@ -1,0 +1,17 @@
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\bin\Debug\net8.0-windows\equations_quad.exe
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\bin\Debug\net8.0-windows\equations_quad.deps.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\bin\Debug\net8.0-windows\equations_quad.runtimeconfig.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\bin\Debug\net8.0-windows\equations_quad.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\bin\Debug\net8.0-windows\equations_quad.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.Form1.resources
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.csproj.GenerateResource.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.AssemblyInfoInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.AssemblyInfo.cs
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.csproj.CoreCompileInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.sourcelink.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\refint\equations_quad.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\equations_quad.genruntimeconfig.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\equations_quad\equations_quad\obj\Debug\net8.0-windows\ref\equations_quad.dll

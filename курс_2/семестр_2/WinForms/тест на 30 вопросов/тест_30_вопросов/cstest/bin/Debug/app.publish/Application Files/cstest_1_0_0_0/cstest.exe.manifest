@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="cstest.exe" version="1.0.0.0" publicKeyToken="d9420ab30a1d544a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="cstest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="cstest.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cstest.exe" size="61376">
+      <assemblyIdentity name="cstest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>A24vkAcyh5Ha9LJQTVFLqnRHr+Ih5ia1MW/wZAQ30qI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cstest.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ITSEGORKPC\user" issuerKeyHash="a950bdffd86544cf5b1808b6e4ccc798f854bbcc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2s4DbY75e4ky5r5X3fI+u8XkWuGvdl7awvbcVzc+CQc=</DigestValue></Reference></SignedInfo><SignatureValue>QaWuULDwKudPlJXFKIWW1DyqMfujn09dioVN0+8RyeBVQvWRTkvMFH2b9A6uy4v2RVwUAGhNaqHsm/NMtGlmpdFPK8XNXMU82sORV+XP14W3NfwSpREGeCudqOm844MexphqyKBXBm84RfhqHqqryyuHbIghPsxCM4QWkiCF2mA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qyvzIPUGguZEAWFQEi/9Os0zfwl3JeiV5EQeqBOUmflcRSC9VCNN6K+stsCRZblm/1l6t5S7SULaTyt+a3yLAgx5/XKXYfXd+DM7b0kA3fLY2zlHesk2HeaOGPAGahfMN7uSn4o41cKFUHrmNFCmVNum41KXMq+voKF9qpLxTmU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="07093e3757dcf6c2da5e76afe15ae4c5bb3ef2dd57bee632897bf98e6d03ceda" Description="" Url=""><as:assemblyIdentity name="cstest.exe" version="1.0.0.0" publicKeyToken="d9420ab30a1d544a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ITSEGORKPC\user</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>TAlfKjQMVILRUtOSqXnBkFWsU10w91oR7EJsuonY8IY=</DigestValue></Reference></SignedInfo><SignatureValue>TIoQKPfWdkIDwlMQNUk69tXfa+6Mo0Y7RUjSCe2tclYFEGYSurUTLhyzTCjjgCk/AQbs2aVRon6f0bHp1Ptz6uE9PmfXZaX6FVXC9VRI9ed0f8d92/X0kVL42y4E5vOAa2skNV6nhYuebGmAob7do/BEOV0p2g5MKKo0USk3uH0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qyvzIPUGguZEAWFQEi/9Os0zfwl3JeiV5EQeqBOUmflcRSC9VCNN6K+stsCRZblm/1l6t5S7SULaTyt+a3yLAgx5/XKXYfXd+DM7b0kA3fLY2zlHesk2HeaOGPAGahfMN7uSn4o41cKFUHrmNFCmVNum41KXMq+voKF9qpLxTmU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQd8lQCaZM1ZhKkY8zDZsPdTANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ASQBUAFMARQBHAE8AUgBLAFAAQwBcAHUAcwBlAHIwHhcNMjQwNTAyMTQ0NzEyWhcNMjUwNTAyMjA0NzEyWjApMScwJQYDVQQDHh4ASQBUAFMARQBHAE8AUgBLAFAAQwBcAHUAcwBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKsr8yD1BoLmRAFhUBIv/TrNM38JdyXoleREHqgTlJn5XEUgvVQjTeivrLbAkWW5Zv9ZereUu0lC2k8rfmt8iwIMef1yl2H13fgzO29JAN3y2Ns5R3rJNh3mjhjwBmoXzDe7kp+KONXChVB65jRQplTbpuNSlzKvr6ChfaqS8U5lAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAOzgAaXdE/ekVK5Sjoi2DssxGUPrScHP56es4dkZ2CUIjswjqfMKwpGOGuDUk1nsaD5H5D9Hv/IbM1C16zPNMvPkWbPkzQk1mbGrBekZkRV3Jc7Bh97XYA3opDfPK13M0X3nDcV6hBGmXjqmojQhzdhcZkT+puFRJRKrtz24KM9M=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

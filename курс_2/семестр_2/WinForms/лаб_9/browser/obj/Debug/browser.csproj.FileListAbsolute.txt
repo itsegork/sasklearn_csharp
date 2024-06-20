@@ -1,0 +1,10 @@
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\bin\Debug\browser.exe.config
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\bin\Debug\browser.exe
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\bin\Debug\browser.pdb
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\obj\Debug\browser.csproj.AssemblyReference.cache
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\obj\Debug\browser.Form1.resources
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\obj\Debug\browser.Properties.Resources.resources
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\obj\Debug\browser.csproj.GenerateResource.cache
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\obj\Debug\browser.csproj.CoreCompileInputs.cache
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\obj\Debug\browser.exe
+C:\Users\itseg\Documents\GitHub\cslearning\browser\browser\obj\Debug\browser.pdb

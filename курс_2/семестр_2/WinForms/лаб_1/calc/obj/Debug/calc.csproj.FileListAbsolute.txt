@@ -1,0 +1,10 @@
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\bin\Debug\calc.exe.config
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\bin\Debug\calc.exe
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\bin\Debug\calc.pdb
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\obj\Debug\calc.exe
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calc\calc\obj\Debug\calc.pdb

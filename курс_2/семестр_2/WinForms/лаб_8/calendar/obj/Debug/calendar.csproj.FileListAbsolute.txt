@@ -1,0 +1,10 @@
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\bin\Debug\calendar.exe.config
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\bin\Debug\calendar.exe
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\bin\Debug\calendar.pdb
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\obj\Debug\calendar.csproj.AssemblyReference.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\obj\Debug\calendar.Form1.resources
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\obj\Debug\calendar.Properties.Resources.resources
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\obj\Debug\calendar.csproj.GenerateResource.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\obj\Debug\calendar.csproj.CoreCompileInputs.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\obj\Debug\calendar.exe
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\calendar\calendar\obj\Debug\calendar.pdb

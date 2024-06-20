@@ -1,0 +1,10 @@
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\bin\Debug\Первое приложение.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\bin\Debug\Первое приложение.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\bin\Debug\Первое приложение.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\obj\Debug\Первое приложение.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\obj\Debug\Первое_приложение.Form1.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\obj\Debug\Первое_приложение.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\obj\Debug\Первое приложение.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\obj\Debug\Первое приложение.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\obj\Debug\Первое приложение.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Первое приложение\Первое приложение\obj\Debug\Первое приложение.pdb

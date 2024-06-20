@@ -1,0 +1,17 @@
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\bin\Debug\net8.0-windows\menustrip.exe
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\bin\Debug\net8.0-windows\menustrip.deps.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\bin\Debug\net8.0-windows\menustrip.runtimeconfig.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\bin\Debug\net8.0-windows\menustrip.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\bin\Debug\net8.0-windows\menustrip.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.Form1.resources
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.csproj.GenerateResource.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.AssemblyInfoInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.AssemblyInfo.cs
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.csproj.CoreCompileInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.sourcelink.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\refint\menustrip.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\menustrip.genruntimeconfig.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\menustrip\menustrip\obj\Debug\net8.0-windows\ref\menustrip.dll

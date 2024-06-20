@@ -1,0 +1,10 @@
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\bin\Debug\msgbox.exe.config
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\bin\Debug\msgbox.exe
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\bin\Debug\msgbox.pdb
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\obj\Debug\msgbox.csproj.AssemblyReference.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\obj\Debug\msgbox.Form1.resources
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\obj\Debug\msgbox.Properties.Resources.resources
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\obj\Debug\msgbox.csproj.GenerateResource.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\obj\Debug\msgbox.csproj.CoreCompileInputs.cache
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\obj\Debug\msgbox.exe
+C:\Users\itseg\OneDrive\Документы\GitHub\cslearning\msgbox\msgbox\obj\Debug\msgbox.pdb

@@ -1,0 +1,17 @@
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\bin\Debug\net8.0-windows\5arrays.exe
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\bin\Debug\net8.0-windows\5arrays.deps.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\bin\Debug\net8.0-windows\5arrays.runtimeconfig.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\bin\Debug\net8.0-windows\5arrays.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\bin\Debug\net8.0-windows\5arrays.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\_5arrays.Form1.resources
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.csproj.GenerateResource.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.AssemblyInfoInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.AssemblyInfo.cs
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.csproj.CoreCompileInputs.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.sourcelink.json
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\refint\5arrays.dll
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.pdb
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\5arrays.genruntimeconfig.cache
+C:\Users\itsegork\Documents\прога\GitHub\cslearning\5arrays\5arrays\obj\Debug\net8.0-windows\ref\5arrays.dll

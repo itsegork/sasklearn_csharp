@@ -1,0 +1,10 @@
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\bin\Debug\1arrays.exe.config
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\bin\Debug\1arrays.exe
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\bin\Debug\1arrays.pdb
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\obj\Debug\1arrays.csproj.AssemblyReference.cache
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\obj\Debug\_1arrays.Form1.resources
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\obj\Debug\_1arrays.Properties.Resources.resources
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\obj\Debug\1arrays.csproj.GenerateResource.cache
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\obj\Debug\1arrays.csproj.CoreCompileInputs.cache
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\obj\Debug\1arrays.exe
+C:\Users\itseg\Documents\GitHub\cslearning\1arrays\1arrays\obj\Debug\1arrays.pdb

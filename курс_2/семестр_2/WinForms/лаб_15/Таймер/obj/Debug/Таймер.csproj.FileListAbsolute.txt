@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\bin\Debug\Таймер.exe.config
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\bin\Debug\Таймер.exe
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\bin\Debug\Таймер.pdb
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.Form1.resources
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.Properties.Resources.resources
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.exe
+C:\Users\User\Desktop\Папки\Studio\Forms\Таймер\Таймер\obj\Debug\Таймер.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Таймер\Таймер\obj\Debug\Таймер.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Таймер\Таймер\obj\Debug\Таймер.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Forms\Forms\Таймер\Таймер\obj\Debug\Таймер.pdb
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\bin\Debug\Таймер.exe.config
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\bin\Debug\Таймер.exe
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\bin\Debug\Таймер.pdb
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\obj\Debug\Таймер.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\obj\Debug\Таймер.Form1.resources
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\obj\Debug\Таймер.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\obj\Debug\Таймер.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\obj\Debug\Таймер.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\obj\Debug\Таймер.exe
+C:\Users\user\Downloads\Telegram Desktop\Windows Forms Капитонова\Практическая работа 15 Таймер C#\Таймер\Таймер\obj\Debug\Таймер.pdb
